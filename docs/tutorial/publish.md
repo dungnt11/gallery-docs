@@ -30,7 +30,7 @@ Or you can also find and install theme 2.0
 
 Follow the video below to publish it
 
-1. Publish by store 2.0
+### 1. Publish by store 2.0
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bvZ5XSYUtAA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -38,14 +38,14 @@ Follow the video below to publish it
 Do not forget: [click](/docs/tutorial/settings#enable-optimize-assets-in-store-20)
 :::
 
-2. Publish in page
+### 2. Publish in page
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/U-WYdaW_JRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-3. Publish by code
+### 3. Publish by code
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3TjvBi7uROk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-4. Publish by section liquid
+### 4. Publish by section liquid
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/W9mnFn3H7qU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
