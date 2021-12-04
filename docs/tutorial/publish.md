@@ -9,8 +9,8 @@ After customizing your gallery, you may need to publish them to your store, I gi
 ## 1. Store 2.0
 ![store 2.0](/img/publish/4.svg)
 
-## 2. Store old
-![store old](/img/publish/5.svg)
+## 2. Old store
+![old store](/img/publish/5.svg)
 
 ## Let's start
 
