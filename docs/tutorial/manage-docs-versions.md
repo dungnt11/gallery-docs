@@ -7,28 +7,28 @@ This is overview page. Here you can manage your galleries, choose plans, and mak
 ![Tab](/img/tutorial/overview.png)
 
 ## 1. Galleries
-This is the place to manage your galleries. Here you can see all created galleries, also you can search by name or sort them (by name or creation date).
+This is the place to manage your galleries. Here yThis is the place where you can manage your galleries. You can see all created galleries, search by name and sort them (by name or creation date).
 If you haven't created any Gallery yet, you will see the message `You don't have any gallery`, 2 buttons `Create new gallery` and `Learn more`.
 ![create-gallery-btn-1](/img/tutorial/create-gallery-btn-1.png)
 If you already have gallery, you can click the `New Gallery` button.
 ![create-gallery-btn](/img/tutorial/create-gallery-btn.png)
 
-## 2. Details gallery
-This is the Details Gallery page. It will appear after you click the `Create New Gallery` or `New Gallery` button.
+## 2. Detail gallery
+This is the Detail Gallery page. It will appear after you click the `Create New Gallery` or `New Gallery` button.
 This page includes 4 main areas:
 ![Detail gallery](/img/tutorial/detail-gallery.png)
 
 **1. Add Block button**
 
-  This is the most important button of the app. Each image (or video) will be treated as a block, and you can drag, drop or resize it.
+  This is the most important button of the app. Each image (or video) is considered as a block and you can drag, drop or resize it.
 
 **2 Display manager**
 
-  Here you can customize the position and shape according to each different screen. Maybe Mobile, Tablet, Laptop or Desktop.
+  Here you can customize position and shape according to each different screen such as Mobile, Tablet, Laptop or Desktop.
 
 **3. Grid block gallery**
 
-  This is where the blocks will show up after you click the `Add Block` button.
+  All blocks will show up after you click the `Add Block` button.
 
 **4. Sidebar**
 
@@ -57,7 +57,7 @@ You can hover into the sidebar to see each separate function.
 
 ### 4.1 Image manager
 Click on the three dots and you will see more options.
-You can choose files in the following ways:
+You can choose files by the following ways:
 - Upload from your device
 - Import from your Products
 - Import from your Collections
@@ -91,7 +91,7 @@ You can also customize the gallery layout and save it as a template. It will be 
 Here you can write a title and description for your gallery. You can also choose the position for them (Left, Center or Right).
 ![Title and description](/img/tutorial/title-and-des.png)
 
-The gallery title  will also be displayed on the Galleries page.
+The gallery title will be also displayed on the Galleries page.
 
 ![After set title](/img/tutorial/after-set-title.png)
 

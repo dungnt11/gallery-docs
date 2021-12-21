@@ -7,7 +7,7 @@ This is the start page of the app, after you modify the gallery you will be move
 
 ## Gallery item
 ![Gallery item](/img/tutorial/gallery-item.png)
-You can create, edit, delete or preview galleries before publishing them on your website. These are easy to understand, but we have a few caveats.
+You can create, edit, delete or preview galleries before publishing them on your website. It is easy to understand, but we have a few caveats.
 
 ## Clone
 :::info
