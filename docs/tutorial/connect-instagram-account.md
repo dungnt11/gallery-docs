@@ -8,7 +8,7 @@ sidebar_position: 4
 You can handwrite or copy and paste it into the `Username` input of Egallery app
 
 This is your username:
-![Username Instagram](/img/tutorial/usnins.png)
+![Username Instagram](/img/tutorial/usnIns.png)
 ## Get Session ID
 ### Step 1:
 Go to your Instagram
